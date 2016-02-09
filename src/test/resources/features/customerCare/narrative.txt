@@ -1,0 +1,4 @@
+Customer Care Emails
+In order to support customers
+As a site admin
+I want to get customer feedback and questions as emails

@@ -1,0 +1,4 @@
+Cart tests
+In order to buy products
+As a user
+I want to be able to add products to cart
